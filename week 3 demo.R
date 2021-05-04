@@ -135,3 +135,4 @@ sorted_data
 
 # save the random sample file to a csv file
 write.csv(my_sample, file= "random sample.csv")
+
