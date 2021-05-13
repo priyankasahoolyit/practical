@@ -19,7 +19,6 @@ str(beaver2)
 # temp = continuous variable
 # activity = categorical dichotomos variable
 
-
 # Copy the data into dataframe
 beavers_data <- beaver2
 str(beavers_data)
